@@ -1,0 +1,10 @@
+G:\PRG\OOP\UKOL_OOP1\bin\Debug\UKOL_OOP1.exe.config
+G:\PRG\OOP\UKOL_OOP1\bin\Debug\UKOL_OOP1.exe
+G:\PRG\OOP\UKOL_OOP1\bin\Debug\UKOL_OOP1.pdb
+G:\PRG\OOP\UKOL_OOP1\obj\Debug\UKOL_OOP1.csprojAssemblyReference.cache
+G:\PRG\OOP\UKOL_OOP1\obj\Debug\UKOL_OOP1.Form1.resources
+G:\PRG\OOP\UKOL_OOP1\obj\Debug\UKOL_OOP1.Properties.Resources.resources
+G:\PRG\OOP\UKOL_OOP1\obj\Debug\UKOL_OOP1.csproj.GenerateResource.cache
+G:\PRG\OOP\UKOL_OOP1\obj\Debug\UKOL_OOP1.csproj.CoreCompileInputs.cache
+G:\PRG\OOP\UKOL_OOP1\obj\Debug\UKOL_OOP1.exe
+G:\PRG\OOP\UKOL_OOP1\obj\Debug\UKOL_OOP1.pdb
